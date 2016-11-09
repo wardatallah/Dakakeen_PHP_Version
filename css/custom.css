@@ -1,0 +1,412 @@
+.vmgroup_new ul li .product-box {
+border: 1px solid #f3eeee;
+width: 180px;
+text-align: left;
+float: left;
+min-height: 0px;
+margin-left: 20px;
+padding: 0 19px 13px 19px;
+background: #fff;
+position: relative;
+-webkit-transition: background 0.8s ease;
+-moz-transition: background 0.8s ease;
+}
+
+.td1 ,.th1,.td1No,.td1Yes{
+border:1 solid #f1f1f1;
+text-align:center;
+padding:5 0 5 0;
+}
+
+.td1Yes{
+background-color:#ff1111;
+}
+.td1No{
+background-color:#55bb55;
+}
+
+.th1{
+border-color:#fff;
+background-color:#f1f1f1;
+}
+
+
+.vmgroup_new ul li .browseImage {
+text-align: center;
+height: auto;
+width: 100%;
+padding-top: 30px;
+padding-bottom: 30px;
+border-bottom: 1px solid #d4d4d4;
+}
+
+.item {
+overflow: hidden;
+}
+
+
+
+.module-category .list {
+margin: 0!important;
+padding: 0!important;
+list-style-type: none;
+}
+
+
+.container2 ul.vmproduct_new, menu, dir {
+display: block;
+list-style-type: disc;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 300px;
+}
+
+
+
+.vmgroup_new ul li {
+display: block;
+float: none;
+padding: 0 0 15px 0;
+min-height: auto;
+width: 100%;
+overflow: hidden;
+margin: 0 0 0 0;
+border: none;
+background: none;
+}
+
+
+
+
+.module-category .list li {
+font: normal 11px/26px Arial, Helvetica, sans-serif;
+font-family: 'Droid Sans', sans-serif;
+float: none;
+position: relative;
+padding: 0px 0 0px 26px;
+height: auto;
+background: url(../images/hor-line.gif) left top repeat-x;
+text-transform: lowercase;
+}
+
+
+
+.new {
+display: none;
+}
+
+.bold{
+font-size:18;
+background-color:#f1f1f1;
+}
+
+.good_label{
+font: bold 16px Arial, Helvetica, sans-serif;
+font-family: 'Glegoo', serif;
+color: #ee5566;
+}
+
+.vmgroup_new ul li .Title {
+margin: 0 0 0 0;
+text-align: left;
+padding: 15px 0 0 4px;
+min-height: 28px;
+}
+.vmgroup_new ul li .button {
+margin: 0 0 0 0;
+text-align:center;
+padding:15 40 10 0
+
+}
+
+.vmgroup_new ul li .Price .WithoutTax, .vmgroup_new ul li .Price .discount {
+display: none;
+}
+
+
+.vmgroup_new ul li .Price {
+color: #f83131;
+font: normal 19px/30px Arial, Helvetica, sans-serif;
+font-family: 'Glegoo', serif;
+text-align: left;
+}
+
+
+.vmgroup_new ul li .date {
+color: cadetblue;
+font: normal 18px Arial, Helvetica, sans-serif;
+font-family: 'Glegoo', serif;
+text-align: left;
+}
+
+.vmgroup_new ul li .msg {
+color: #151515;
+font: normal 24px Arial, Helvetica, sans-serif;
+font-family: 'Glegoo', serif;
+text-align: left;
+margin-top:15px;
+}
+
+.count {
+display: none;
+}
+
+.module_new .Details {
+float: none;
+width: 66px;
+margin-left: 5px;
+padding-top: 4px;
+}
+
+
+#left {
+float: left;
+width: 220px;
+margin: 0 20px 0 0px;
+padding: 0px 0 0px 0px;
+}
+
+
+.wrapper2 {
+width: 100%;
+background-color:#fff;
+
+}
+
+.container2 {
+position: relative;
+overflow: hidden;
+padding: 0px 0 30px 0;
+margin: 0;
+background-color:#fff;
+}
+
+
+.module_new .boxIndent {
+padding: 0;
+border: none;
+background-color:#fff;
+}
+
+
+.module_none {
+display: none;
+}
+
+.module-category {
+border: none;
+padding: 0;
+margin-bottom: 17px;
+border-radius: 0px;
+position: relative;
+}
+
+.module_login {
+margin-bottom: 20px;
+}
+
+.boxIndent {
+padding: 10px;
+border: 1px solid #e8e8e8;
+background: #fff;
+overflow: hidden;
+}
+
+.vmgroup_new ul li .Title a {
+margin-top:5px;
+margin-bottom:5px;
+color: #9b9a9a;
+font: normal 12px/14px Arial, Helvetica, sans-serif;
+font-family: 'Droid Sans', sans-serif;
+text-decoration: none;
+display: block;
+text-transform: none;
+}
+
+
+.product_image_bg {
+border-radius: 4px;
+border: 1px solid #dcdcdc;
+float: left;
+margin-top: 8px;
+padding-top: 10px;
+padding-right: 5px;
+padding-left: 5px;
+}
+
+.grid_8{
+display: inline;
+float: left;
+margin: 30px 100px 30px 300px ;
+position: relative;
+}
+
+
+.mobilemodelspec {
+width: 450px !important;
+margin-right: 0;
+}
+
+.ftlt {
+float: left;
+}
+
+.mobileqkspec li span, .mobileqkspec span {
+display: block;
+padding: 6px 2px;
+font: bold 18px Arial, Helvetica, sans-serif;
+font-family: 'Glegoo', serif;
+}
+
+.mobileqkspec ul {
+overflow: hidden;
+width: 100%;
+-webkit-padding-start: 30px;
+}
+.mobileqkspec{
+-webkit-padding-start: 30px;
+}
+
+.spek {
+list-style-type: none;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 12px;
+padding-top: 5px;
+padding-bottom: 10px;
+margin-bottom: 5px;
+-webkit-padding-start: 50px;
+}
+
+.pad5 {
+padding: 5px 0;
+}
+.alignright {
+text-align: right;
+}
+
+.morelinksm {
+color: #f27f02;
+font-weight: bold;
+}
+
+a:hover, a:active {
+outline: 0 none;
+}
+a:hover {
+text-decoration: none;
+}
+
+a:-webkit-any-link {
+text-decoration: none;
+cursor: auto;
+}
+
+.title_box {
+width: 225px;
+height: 30px;
+margin: 5px 0 0 0;
+PADDING-LEFT:2;
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+color: #222;
+line-height: 30px;
+}
+
+.left_content {
+width: 225px;
+margin-top:25px;
+margin-left:50px;
+float: left;
+}
+
+.faceplugin{
+margin-top:20px;
+}
+
+ul.left_menu {
+width: 225px;
+padding: 0px;
+margin: 0px;
+list-style: none;
+}
+
+ul.left_menu li {
+margin: 0px;
+list-style: none;
+}
+
+ul.left_menu li.odd a {
+width: 194px;
+height: 35px;
+display: block;
+background: no-repeat left #fff;
+background-position: 5px 5px;
+border-bottom: 1px #f1f1f1 solid;
+text-decoration: none;
+color: #504b4b;
+padding: 0 0 0 30px;
+line-height: 35px;
+}
+
+ul.left_menu li {
+margin: 0px;
+list-style: none;
+}
+
+ul.left_menu li.even a {
+width: 194px;
+height: 35px;
+display: block;
+background: no-repeat left #999;
+background-image:url(/images/checked.png);
+background-position: 5px 5px;
+border-bottom: 1px #f1f1f1 solid;
+text-decoration: none;
+color: #504b4b;
+padding: 0 0 0 30px;
+line-height: 35px;
+}
+
+.border_box {
+width: 224px;
+height: auto;
+text-align: CENTER;
+border: 1px #f1f1f1 solid;
+}
+
+.product_title {
+color: #ea2222;
+padding: 5px 0 5px 0;
+font-weight: bold;
+}
+
+.product_title a {
+text-decoration: none;
+color: #ea2222;
+padding: 5px 0 5px 0;
+font-weight: bold;
+}
+
+.product_img {
+width:100;
+height:100;
+padding: 5px 0 5px 0;
+}
+
+.prod_price {
+padding: 5px 0 5px 0;
+}
+
+span.reduce {
+color: #999999;
+text-decoration: line-through;
+}
+
+.top-info {
+padding-top:18;
+}
+
+

@@ -1,0 +1,25 @@
+{
+  "name": "Dakakeen",
+   "default_locale": "en",
+  "description": "This extension demonstrates a browser action with kittens.",
+  
+  "version": "1.0",
+  
+  "manifest_version": 2,
+  
+	"icons":{
+		"16":"icons/icon16.png",
+		"48":"icons/icon48.png",
+		"128":"icons/icon128.png"
+	},
+	"locale" : "_locales/en/messages.js",
+  "permissions": [
+    "http://localhost/ext/"
+  ],
+  
+  
+  "browser_action": {
+    "default_icon": "icons/icon16.png",
+    "default_popup": "popup.html"
+  }
+}
